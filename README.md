@@ -55,7 +55,8 @@ Global-Disaster-Relief-DBMS/
 │   └── future_scope.md
 │
 └── README.md
-🔑 Features (By Phase)
+--------
+##🔑 Features (By Phase)
 ✅ Phase 1: Schema & Core DB
 Design entities: supplies, volunteers, shelters, disasters, aid requests
 Apply 3NF normalization for efficient querying
